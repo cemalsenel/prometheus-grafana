@@ -1,1 +1,1 @@
-# prometheus-grafana
+# Monitor K8s clusters through Prometheus and Grafana
